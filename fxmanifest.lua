@@ -2,7 +2,7 @@ fx_version 'adamant'
 
 game 'gta5'
 
-description 'ESX License Shop'
+description '7k-TembakSim'
 
 version '1.0.0'
 
